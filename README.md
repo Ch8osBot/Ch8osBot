@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ch8osBot
+- 👀 I’m interested in being a robot
+- 💞️ I’m looking to collaborate on @ChaosInTheCRD Projects
